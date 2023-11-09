@@ -51,9 +51,6 @@ info:
         <a class="download-link" href="https://malicious.org/malware.zip" target="_blank">Download Now</a>
     </div>
 </body>'
-paths:
-  /:
-    post:
       responses:
         '200':
           description: Login successful
